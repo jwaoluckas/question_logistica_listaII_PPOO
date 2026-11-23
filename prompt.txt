@@ -13,3 +13,6 @@ Prompt 4:
 A fachada só executava tudo direto sem tratar falhas. Como melhorar o fluxo para barrar o pedido se faltar estoque ou falhar o pagamento?
 
 Observação: mudei a fachada pra parar o processo assim que uma etapa falha e devolver true ou false no final. Se não tem estoque, nem tenta cobrar o cliente, e se o pagamento falha, não manda a remessa. Assim fica bem mais próximo de uma loja de verdade e evita enviar produto sem pagamento ou cobrar por algo que não existe. No estoque também passei a validar produto nulo, id menor ou igual a zero e nome vazio.
+
+Prompt 5:
+Cria uma classe Main bem direta testando o pedido pela Facade, mostrando um caso que dá certo e outro que falha na validação.
