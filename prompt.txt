@@ -1,2 +1,7 @@
 Prompt 1:
 Preciso resolver um exercício em Java de comércio eletrônico usando o padrão Facade. Qual a estrutura mais simples para organizar Produto, serviços e a fachada?
+
+Prompt 2:
+Monta as classes ServicoEstoque, ServicoPagamento e ServicoRemessa seguindo as assinaturas do enunciado, só com prints simples para simular cada etapa.
+
+Observação: no PDF o makePayment() aparece com um espaço no meio do nome, então escrevi do jeito certo pra compilar. Também coloquei prints em cada serviço pra conseguir acompanhar cada etapa no console.
