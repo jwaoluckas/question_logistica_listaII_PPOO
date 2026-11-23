@@ -1,0 +1,2 @@
+Prompt 1:
+Preciso resolver um exercício em Java de comércio eletrônico usando o padrão Facade. Qual a estrutura mais simples para organizar Produto, serviços e a fachada?
